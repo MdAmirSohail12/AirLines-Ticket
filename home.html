@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html>
+	<head>
+	
+		<title>AirLines Ticketing</title>
+		<link rel="stylesheet" type="text/css" href="amir.css">
+	</head>
+	<body class="home">
+		<h1 class="link">
+	    <a href="presentby.html" style="text-decoration: none; font-size: 30px ">Present</a>
+        <a href="home.html" style="text-decoration: none; font-size: 30px">Home</a>
+		<a href="MyBooking.html" style="text-decoration: none; font-size: 30px">MyBooking</a>
+		<a href="Login.html" style="text-decoration: none; font-size: 30px">Login</a>
+		<a href="SignUp.html" style="text-decoration: none; font-size: 30px">SignUp</a>
+		<a href="Destination.html" style="text-decoration: none; font-size: 30px">Destination</a>
+		<a href="end.html" style="text-decoration: none; font-size: 30px ">End</a>
+	</h1>
+		<h1 class="welcome">
+			Welcome to Airlines<br>
+		</h1>
+		<h1 class="plane">
+			Flight<br>
+		<img src="C:\Users\kk198\OneDrive\Desktop\html\image\flight.jpg" class="flight">
+	</h1>
+		<form style="text-align: center; font-size: 40px">
+		<p>
+			<h1 class="search"> Search Flights </h1> <br>
+				<tr>
+					<td>
+					<input type="Text" placeholder="From" id="From" style="font-size: 20px">
+					<input type="Text" placeholder="To" id="To" style="font-size: 20px">
+					<input type="Date" placeholder="Travell Date yyyy-mm-dd" id="Date" style="font-size: 20px">
+					<select id="Class" style="font-size: 20px">
+					<option>Economy</option>
+					<option>Business</option>
+					<option>First</option>
+				</select>
+				<input type="Submit" value="Search" id="Search" style="font-size: 20px">
+				</td>
+				</tr>
+			</p> <br>
+				<tr>
+					<td>
+					<h1 class="recommended"> Recommended Flights </h1><br>
+				</td>
+				</tr>
+				<table border="1" cellpadding="10" cellspacing="0" style="margin-left: 50px">
+				<tr>
+					<th> Flight </th>
+					<th> Departure </th>
+					<th> Duration </th>
+					<th> Arrival </th>
+					<th> Cost </th>
+					<th>Book</th>
+				</tr>
+				<tr>
+					<td> SH288 </td>
+					<td> Berlin (BER) <br> 21:00 <br> Wed 28 Oct 2020 </td>
+					<td> 49 hrs 5 mins </td>
+					<td> Sydney (SYD) <br> 08:05 <br> Sat 31 Oct 2020</td>
+					<td> $3447 </td>
+					<td> <input type="Submit" value="Book" id="Book">
+					</td>
+				</tr>
+				<tr>
+					<td> SH245 </td>
+					<td> Sydney (SYD) <br> 22:25 <br> Tue 10 Nov 2020</td>
+					<td> 23 hrs 55 mins </td>
+					<td> Berlin (BER) <br> 12:20 <br> Wed 11 Nov 2020 </td>
+					<td> $801 </td>
+					<td> <input type="Submit" value="Book" id="Book">
+					</td>
+				</tr>
+			</table>
+		</form>
+	</body>
+	</html>

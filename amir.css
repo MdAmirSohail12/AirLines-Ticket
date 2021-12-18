@@ -1,0 +1,144 @@
+.home{
+	background-image: url("https://s2.best-wallpaper.net/wallpaper/1366x768/1411/Boeing-747-aircraft-flight-clouds-sun_1366x768.jpg");
+}
+.welcome{
+	text-align: center;
+	font-size: 100px;
+	color: white;
+	font-family: arial;
+}
+.plane{
+	text-align: center;
+	font-size: 100px;
+	color: red;
+	font-family: arial;
+	margin: 0px;
+}
+.flight{
+	width: 1341.33px;
+	height: 500px;
+}
+.search{
+	text-align: center;
+	font-size: 100px;
+	color: green;
+	font-family: arial;
+	margin: 0px;
+}
+.recommended{
+	text-align: center;
+	font-size: 100px;
+	color: blue;
+	font-family: arial;
+	margin: 0px;
+}
+.booking{
+	background-image: url("https://s2.best-wallpaper.net/wallpaper/1366x768/1411/Boeing-747-aircraft-flight-clouds-sun_1366x768.jpg");
+}
+.my{
+	text-align: center;
+	font-size: 100px;
+	color: white;
+	font-family: arial;
+}
+.seat{
+	margin-left: 300px;
+	font-size: 20px;
+	color: blue;
+	font-family: arial;
+}
+.login{
+	background-image: url("https://s2.best-wallpaper.net/wallpaper/1366x768/1411/Boeing-747-aircraft-flight-clouds-sun_1366x768.jpg");
+}
+.email{
+	text-align: center;
+	font-size: 100px;
+	color: white;
+	font-family: arial;
+	margin: 20px;
+}
+.enter{
+	margin-left: 500px;
+	font-size: 30px;
+	color: blue;
+	font-family: arial;
+}
+.sign{
+	background-image: url("https://s2.best-wallpaper.net/wallpaper/1366x768/1411/Boeing-747-aircraft-flight-clouds-sun_1366x768.jpg");
+}
+.up{
+	text-align: center;
+	font-size: 100px;
+	color: white;
+	font-family: arial;
+	margin: 20px;
+}
+.khan{
+	margin-left: 350px;
+	font-size: 30px;
+	color: black;
+	font-family: arial;
+}
+.destination{
+	background-image: url("https://s2.best-wallpaper.net/wallpaper/1366x768/1411/Boeing-747-aircraft-flight-clouds-sun_1366x768.jpg");
+}
+.tour{
+	text-align: center;
+	font-size: 200px;
+	color: white;
+	font-family: arial;
+	margin: 20px;
+}
+.ind{
+	text-align: center;
+	font-size: 100px;
+	color: orange;
+	font-family: arial;
+	margin: 20px;
+}
+.abu{
+	text-align: center;
+	font-size: 100px;
+	color: green;
+	font-family: arial;
+	margin: 20px;
+}
+.ista{
+	text-align: center;
+	font-size: 100px;
+	color: red;
+	font-family: arial;
+	margin: 20px;
+}
+.par{
+	text-align: center;
+	font-size: 100px;
+	color: blue;
+	font-family: arial;
+	margin: 20px;
+}
+.ita{
+	text-align: center;
+	font-size: 100px;
+	color: brown;
+	font-family: arial;
+	margin: 20px;
+}
+.dummy{
+	background-image: url("https://s2.best-wallpaper.net/wallpaper/1366x768/1411/Boeing-747-aircraft-flight-clouds-sun_1366x768.jpg");
+}
+.script{
+	text-align: center;
+	font-size: 100px;
+	color: yellow;
+	font-family: arial;
+}
+.end{
+	background-image: url("https://s2.best-wallpaper.net/wallpaper/1366x768/1411/Boeing-747-aircraft-flight-clouds-sun_1366x768.jpg");
+}
+.thanks{
+	text-align: center;
+	font-size: 70px;
+	color: yellow;
+	font-family: arial;
+}
